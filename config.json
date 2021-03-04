@@ -1,0 +1,5 @@
+{
+  "max": "MAX AMOUNT OF WARNS BEFORE MUTE",
+  "message": "WARN MESSAGE",
+  "role": "MUTED ROLE NAME"
+}
