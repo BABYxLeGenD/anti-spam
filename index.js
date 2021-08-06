@@ -5,7 +5,7 @@ const config = require('./config.json')
 
 
 
-client.login(process.env.TOKEN)
+client.login"token": ""
 
 
 
